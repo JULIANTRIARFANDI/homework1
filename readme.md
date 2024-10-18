@@ -1,11 +1,10 @@
-## MEMBELI MOTOR 
+## RENTAL MOBIL
 # Studi Kasus
-Saya membeli motor tetapi tidak ada pilihan spesifikasinya
-hanya ada pilihan merk 
+Di daerah saya tidak ada jasa rental mobil
+lalu saya menyediakan mobil xenia , avanza , brio
 # Solusi
-membuat sebuah program sederhana yang membuat pembeli bisa 
-memilih merk dan spesifikasi motor 
+saya membuat program rental mobil xenia , avanza , brio
 
 
 ## flowchart
-![flowchart](flowchart hw1.png)
+![flowchart](flowchart.drawio.png)
